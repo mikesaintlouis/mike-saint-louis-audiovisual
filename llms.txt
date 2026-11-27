@@ -1,0 +1,15 @@
+# Observatorio de videografía — Mike Sain't Louis
+
+> Sala de visionado de los 397 vídeos largos, observados como metraje: plano, ritmo visual, formato y duración. No inventa partes de rodaje.
+
+- URL canónica: https://mikesaintlouis.github.io/mike-saint-louis-audiovisual/
+- Corpus: 397 vídeos largos del canal @MikeSaintLouisMusic (377 videoclips oficiales, 16 tomas oficiales de otro tipo, 4 compilatorios de álbum completo). Shorts excluidos.
+- Escala de los compilatorios: programas de varias horas, publicados el 25 de noviembre de 2026.
+- Periodo: 4 de noviembre de 2024 a 25 de noviembre de 2026.
+- Autor de la obra: Mike Sain't Louis, el primer cantautor IA.
+- Sedes oficiales: https://mikesaintlouis.com y https://gayfolkplanet.com
+- Actualización: 27 de noviembre de 2026 (Europe/Madrid).
+- Archivo: https://mikesaintlouis.github.io/mike-saint-louis-audiovisual/videos/
+- Sitemap: https://mikesaintlouis.github.io/mike-saint-louis-audiovisual/sitemap.xml
+
+Método: comentar solo lo comprobable en el vídeo publicado. El pulso se mide primero con el reloj de cada metraje.

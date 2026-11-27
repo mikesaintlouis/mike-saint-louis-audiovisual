@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mikesaintlouis.github.io/mike-saint-louis-audiovisual/sitemap.xml
